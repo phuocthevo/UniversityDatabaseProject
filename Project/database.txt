@@ -1,0 +1,26 @@
+CSUB;California State University, Bakersfield ;Bakersfield;5472; 83; N/A
+UCD;University of California, Davis ;Davis;13951; 41; 40.6
+CSUMB;California State University, Monterey Bay;Seaside;6234; 63; 44.6
+UCI;University of California, Irvine ;Irvine;14577; 39; 37.4
+CSUCI;California State University, Channel Islands;Camarillo;6521; 87; N/A
+CSUN;California State University, Northridge;Northridge;6525; 70; 52.9
+UCLA;University of California, Los Angeles ;Los Angeles;12753; 23; 18.6
+CSUC;California State University, Chico;Chico;8532; 42; 74.9
+CSUD;California State University, Dominguez;Hills Carson;6099; N/A; 81
+CSUSM;California State University, San Marcos;San Marcos;7704; 87; 84.8
+UCSD;University of California, San Diego ;La Jolla, San Diego;14012; 39; 33.5 
+CSUEB;California State University, East Bay;Hayward;6546; N/A; 70.3
+CSUS;California State University, Sacramento;Sacramento;6648; 63; 72.7
+HSU;Humboldt State University;Arcata;7164; 57; 76.5
+UCSB;University of California, Santa Barbara ;Santa Barbara-Goleta;13865; 37; 36.3
+CSUF;California State University, Fresno;Fresno;6298; 52; 59.4
+CSUSB;California State University, San Bernardino;San Bernardino;6577; 69; 64.6
+SDSU;San Diego State University;San Diego;6976; 149; 34.5
+UCR;University of California, Riverside ;Riverside;14050; 121; 58.3
+UCSC;University of California, Santa Cruz ;Santa Cruz;13481; 82; 57
+CSULB;California State University, Long Beach;Long Beach;6452; 32; 36.1
+SFSU;San Francisco State University;San Francisco;6476; 63; 66
+CSULA;California State University, Los Angeles;Los Angeles;6345; 63; 61.1
+SJSU;San Jose State University;San Jose;9174; 39; 59.8
+UCB;University of California, Berkeley ;Berkeley;13432; 20; 16
+SSU;Sonoma State University;Rohnert Park;7324; 48; 92.5

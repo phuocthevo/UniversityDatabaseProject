@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\the vo\onedrive\study\programming\cis 22c winter\groupproject\groupproject\university.h(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\the vo\onedrive\study\programming\cis 22c winter\groupproject\groupproject\hasing.h(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\the vo\onedrive\study\programming\cis 22c winter\groupproject\groupproject\inputmanager.h(191): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\the vo\onedrive\study\programming\cis 22c winter\groupproject\groupproject\inputmanager.h(241): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\the vo\onedrive\study\programming\cis 22c winter\groupproject\groupproject\inputmanager.h(231): warning C4101: 'number': unreferenced local variable
+c:\users\the vo\onedrive\study\programming\cis 22c winter\groupproject\groupproject\inputmanager.h(267): warning C4101: 'node': unreferenced local variable
+c:\users\the vo\onedrive\study\programming\cis 22c winter\groupproject\groupproject\inputmanager.h(381): warning C4018: '<': signed/unsigned mismatch
+c:\users\the vo\onedrive\study\programming\cis 22c winter\groupproject\groupproject\binarysearchtree.h(200): warning C4715: 'BinarySearchTree<University *>::_remove': not all control paths return a value
+  GroupProject.vcxproj -> C:\Users\The Vo\OneDrive\Study\Programming\CIS 22C Winter\GroupProject\Debug\GroupProject.exe
+  GroupProject.vcxproj -> C:\Users\The Vo\OneDrive\Study\Programming\CIS 22C Winter\GroupProject\Debug\GroupProject.pdb (Partial PDB)
